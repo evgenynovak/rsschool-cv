@@ -9,8 +9,8 @@ My goal is to become a front-end developer
 * HTML
 * CSS
 * Git
-### Example 
-```
+### Example of code
+```javascript
 function Board ({board, onClickAtCell}) {
   return (
     <BoardBlock>
