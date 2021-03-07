@@ -14,7 +14,7 @@ My goal is to become a front-end developer
 
 ### Example of code
 
-```javascript
+```JSX
 function Board ({board, onClickAtCell}) {
   return (
     <BoardBlock>
