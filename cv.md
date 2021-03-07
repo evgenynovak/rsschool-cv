@@ -11,8 +11,9 @@ My goal is to become a front-end developer
 * HTML
 * CSS
 * Git
-*
+
 ### Example of code
+
 ```javascript
 function Board ({board, onClickAtCell}) {
   return (
