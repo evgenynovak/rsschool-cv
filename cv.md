@@ -2,13 +2,16 @@
 ### Contact information
 * E-mail:  evnovak171@mail.ru
 * Discord: Evgeniy Novak(@evgenynovak)
+
 ### About myself
 My goal is to become a front-end developer
+
 ### Skills
 * JavaScript
 * HTML
 * CSS
 * Git
+*
 ### Example of code
 ```javascript
 function Board ({board, onClickAtCell}) {
@@ -21,6 +24,7 @@ function Board ({board, onClickAtCell}) {
   );
 }
 ```
+
 ### Education
 * https://learn.javascript.ru/
 * https://paqmind.com/courses/react-fundamentals
