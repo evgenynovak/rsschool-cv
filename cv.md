@@ -21,4 +21,10 @@ function Board ({board, onClickAtCell}) {
   );
 }
 ```
+### Education
+* https://learn.javascript.ru/
+* https://paqmind.com/courses/react-fundamentals
+
+### English
+Basic
 
